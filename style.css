@@ -1,0 +1,23 @@
+body{
+   background-color: darkgrey;
+   display: flex;
+   justify-content: center;
+   min-height: 100vh;
+}
+
+form{
+   background-color: lightblue;
+   display: flex;
+   flex-direction: column;
+   padding: 3rem;
+}
+form span{
+   margin-bottom: 1rem;
+}
+form button{
+   margin-top: 1rem;
+}
+
+.form-container{
+   margin-top: 50%;
+}
