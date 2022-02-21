@@ -21,3 +21,15 @@ form button{
 .form-container{
    margin-top: 50%;
 }
+
+.error.active{
+   width  : 100%;
+  padding: 0.5rem;
+   margin: 0.5rem 0;
+  font-size: 80%;
+  color: white;
+  background-color: #900;
+  border-radius: none;
+
+  box-sizing: border-box;
+}
